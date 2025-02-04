@@ -1,0 +1,7 @@
+//add files that you dont want to commit to the repository
+node_modules
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

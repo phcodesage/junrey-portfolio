@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/rech/proj/next-proj/Synthecity-portfolios/master-junrey/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\",\"static/media/a93ef0de5e1e3364-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
